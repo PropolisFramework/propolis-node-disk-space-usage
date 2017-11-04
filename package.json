@@ -1,0 +1,24 @@
+{
+  "name": "propolis-node-disk-space-usage",
+  "version": "1.0.0",
+  "description": "Propolis node library to get disk space usage information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PropolisFramework/propolis-node-disk-space-usage.git"
+  },
+  "keywords": [
+    "propolis",
+    "diskspace",
+    "diskusage"
+  ],
+  "author": "Jean-Nicolas Boulay <jn@yaloub.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PropolisFramework/propolis-node-disk-space-usage/issues"
+  },
+  "homepage": "https://github.com/PropolisFramework/propolis-node-disk-space-usage#readme"
+}
